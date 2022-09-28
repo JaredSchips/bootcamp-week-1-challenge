@@ -20,6 +20,7 @@ p {
 /*********
 * Header *
 **********/
+
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -32,7 +33,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 #seo {
     color: #d9dcd6;
 }
 
@@ -53,9 +54,9 @@ header div ul li {
     margin-left: 25px;
 }
 
-/*********
+/*******
 * Hero *
-**********/
+********/
 
 #hero {
     height: 800px;
@@ -64,6 +65,34 @@ header div ul li {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/***********
+* Services *
+************/
+
+.services-wrapper {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.service img {
+    max-height: 200px;
+}
+
+.service h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .float-left {
@@ -76,35 +105,11 @@ header div ul li {
     margin-left: 25px;
 }
 
-/*********
-* Services *
-**********/
+/***********
+* Benefits *
+************/
 
-.services-wrapper {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-.content-box {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-box img {
-    max-height: 200px;
-}
-
-.content-box h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.benefits {
+.benefits-wrapper {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -121,7 +126,7 @@ header div ul li {
 }
 
 
-.benefit h3 {
+.benefit h2 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -131,6 +136,10 @@ header div ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*********
+* Footer *
+**********/
 
 footer {
     padding: 30px;
