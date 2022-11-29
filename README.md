@@ -1,4 +1,4 @@
-# Bootcamp Week 1 Challenge - Horiseon
+# Horiseon Website Optimization
 
 ## Description
 
