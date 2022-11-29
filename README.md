@@ -10,7 +10,7 @@ The website given is for a hypothetical online marketing business called Horiseo
 
 ## Usage
 
-You can access the updated website at [this link](https://jaredschips.github.io/bootcamp-week-1-challenge/).
+You can access the updated website at [this link](https://jaredschips.github.io/horiseon-website-optimization/).
 
 It should look something like this:
 
