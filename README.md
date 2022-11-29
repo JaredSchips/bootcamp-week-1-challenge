@@ -16,7 +16,7 @@ It should look something like this:
 
 ![A screenshot of the website](assets/images/website-screenshot.png)
 
-If you want to see a fully detailed list of all the changes I made, you can look at the commit history of this repository. The third commit (with message "Uploaded updated version of webpage") contains all of the changes which have been made to the original website.
+If you want to see a fully detailed list of all the changes which have been made, you can look at the commit history of this repository. The third commit (with message "Uploaded updated version of webpage") contains all of the changes which have been made to the original website.
 
 ## License
 
